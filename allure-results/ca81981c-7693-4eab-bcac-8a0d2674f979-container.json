@@ -1,0 +1,1 @@
+{"uuid":"ca81981c-7693-4eab-bcac-8a0d2674f979","name":"checkEmptyException()","children":["168c1bea-9e3e-472a-bdc9-7ec5c58ec4b9"],"befores":[{"name":"createNewDeck","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1703235428362,"stop":1703235428362}],"afters":[],"start":1703235428356,"stop":1703235428367}

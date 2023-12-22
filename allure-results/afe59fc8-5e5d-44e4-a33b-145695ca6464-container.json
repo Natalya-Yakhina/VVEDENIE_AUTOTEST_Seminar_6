@@ -1,0 +1,1 @@
+{"uuid":"afe59fc8-5e5d-44e4-a33b-145695ca6464","name":"DeckTest","children":["81df4870-e43a-4673-93f5-8ec907f4b8c0","84c5b239-f465-424c-b8a9-5c99168f3237"],"befores":[{"name":"init","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1703234754057,"stop":1703234754059}],"afters":[],"start":1703234754039,"stop":1703234754088}
